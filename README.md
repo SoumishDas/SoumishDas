@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @SoumishDas
 
 
-- 👀 I’m interested in ... Well... I like everything related to computers like to code as well as hack
+- 👀 I’m interested in Well... I like everything related to computers like to code as well as hack
 
 - 🌱 I’m currently learning ... React and Golang
 
-- 💞️ I’m looking to collaborate on ... well nay good project that uses python c/c++ react assembly or golang
+- 💞️ I’m looking to collaborate on ... well any good project that uses python c/c++ react assembly or golang
 
 - 📫 How to reach me ... well mail me at soumish.das@gmail.com
 
